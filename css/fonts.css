@@ -1,0 +1,92 @@
+@font-face {
+  font-family: "Bahij TheSansArabic";
+  src: url("../webfonts/fonts-file/BahijTheSansArabic-ExtraLight.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-ExtraLight.woff")
+      format("woff"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-ExtraLight.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bahij TheSansArabic SemiLight";
+  src: url("../webfonts/fonts-file/BahijTheSansArabic-SemiLight.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-SemiLight.woff")
+      format("woff"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-SemiLight.ttf")
+      format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bahij TheSansArabic";
+  src: url("../webfonts/fonts-file/BahijTheSansArabic-Light.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-Light.woff") format("woff"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-Light.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bahij TheSansArabic Plain";
+  src: url("../webfonts/fonts-file/BahijTheSansArabic-Plain.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-Plain.woff") format("woff"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-Plain.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bahij TheSansArabic";
+  src: url("../webfonts/fonts-file/BahijTheSansArabic-SemiBold.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-SemiBold.woff")
+      format("woff"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-SemiBold.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bahij TheSansArabic";
+  src: url("../webfonts/fonts-file/BahijTheSansArabic-Bold.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-Bold.woff") format("woff"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bahij TheSansArabic";
+  src: url("../webfonts/fonts-file/BahijTheSansArabic-ExtraBold.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-ExtraBold.woff")
+      format("woff"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-ExtraBold.ttf")
+      format("truetype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bahij TheSansArabic";
+  src: url("../webfonts/fonts-file/BahijTheSansArabic-Black.woff2")
+      format("woff2"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-Black.woff") format("woff"),
+    url("../webfonts/fonts-file/BahijTheSansArabic-Black.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

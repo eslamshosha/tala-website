@@ -1239,8 +1239,6 @@ html[dir="ltr"] .services-bg {
     padding: 60px 0;
   }
   .section-title {
-    justify-content: center;
-    flex-direction: column;
     gap: 15px;
   }
   .news-all {
@@ -1264,7 +1262,7 @@ html[dir="ltr"] .services-bg {
 }
 .download-bg {
   position: absolute;
-  inset-inline-end: 0;
+  inset-inline-end: -65px;
   top: -40px;
   /* transform: translateY(-50%); */
   max-width: 56%;
@@ -1335,9 +1333,9 @@ html[dir="ltr"] .services-bg {
   }
   .download-bg {
     position: relative;
-    top: unset;
     max-width: 100%;
     margin-bottom: 30px;
+    inset: unset;
   }
   .download-head {
     font-size: 26px;
